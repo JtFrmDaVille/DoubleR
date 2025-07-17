@@ -21,7 +21,7 @@ title                    : "The Double R"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jimi Lizardo"
-description              : "Could you portentially become a millionare?"
+description              : "closest drip to designer"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Jimi Lizardo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Could You Have What It Takes To Become A Millionare.. Fill Out This Survay."
-  location         : "Lax,California"
+  bio              : "View Featured Clothing"
+  location         : "Tampa,FL"
   email            :
   links:
     - label: "jimilizardo123456@gmail.com"
